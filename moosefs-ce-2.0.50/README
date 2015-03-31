@@ -1,0 +1,31 @@
+MooseFS is an Open Source, easy to deploy and maintain, distributed,
+fault tolerant file system for POSIX compliant OSes.
+
+MooseFS uses FUSE (http://fuse.sourceforge.net/).
+
+============
+Date of first public release: 2008-05-30
+
+Project web site: http://www.moosefs.com/
+
+Installation and using MooseFS:
+http://www.moosefs.org/reference-guide.html
+
+Sourceforge project site with source repository:
+http://sourceforge.net/projects/moosefs/
+
+Reporting bugs: bugs@moosefs.com
+General contact address: contact@moosefs.com
+
+Copyright
+=========
+
+Copyright Jakub Kruszona-Zawadzki, Core Technology Sp. z o.o.
+
+READ THIS BEFORE INSTALLING THE SOFTWARE. BY INSTALLING,
+ACTIVATING OR USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY
+THE TERMS AND CONDITIONS OF MooseFS LICENSE AGREEMENT FOR
+VERSION 1.7 AND HIGHER IN A SEPARATE FILE. THIS SOFTWARE IS LICENSED AS
+THE PROPRIETARY SOFTWARE, NOT AS OPEN SOURCE ONE. YOU NOT ACQUIRE
+ANY OWNERSHIP RIGHT, TITLE OR INTEREST IN OR TO ANY INTELLECTUAL
+PROPERTY OR OTHER PROPRITARY RIGHTS.

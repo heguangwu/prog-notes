@@ -1,0 +1,82 @@
+MooseFS Professional and MooseFS Community Edition LICENSE AGREEMENT
+
+THIS SOFTWARE IS LICENSED, NOT SOLD. PLEASE NOTE, THAT BY INSTALLING, COPYING OR OTHERWISE USING THE SOFTWARE AND DOCUMENTATION, YOU AND THE COMPANY OR THE ENTITY YOU REPRESENT ("You"), AGREE TO BE BOUND BY THE TERMS OF THIS MOOSEFS PROFESSIONAL AND MOOSEFS COMMUNITY EDITION LICENSE AGREEMENT. PLEASE BE AWARE THAT THIS AGREEMENT GIVES YOU ACCESS TO THE SOFTWARE’S SOURCE CODE, HOWEVER IT IS NOT AN OPEN SOURCE LICENSE. PLEASE ALSO BE AWARE THAT THIS LICENSE CONTAINS LIMITED WARRANTY AND LIMITATION OF LIABILITY. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU ARE NOT PERMITTED TO INSTALL, COPY OR OTHERWISE USE THE SOFTWARE.
+
+PREAMBLE
+
+MooseFS Professional ("MFS Pro") and MooseFS Community Edition ("MFS CE") – both referred to as "the Software" and all files, that are provided to You by Core Technology Sp. z o.o. ("CT") or are made available by any third party, in particular via on-line transmission, as well as all printed materials and electronic documentation ("Manual"), together with any and all copies and derivative works of the Software, is the copyright work of CT. Any use, reproduction, modification or distribution of the Software not expressly authorized by the terms of this agreement is prohibited.
+
+SOFTWARE
+
+Proprietary MFS Pro and MFS CE software is the network distributed file system. It spreads data over several physical servers which are visible to the user as one resource. The Software’s components include at least one managing server which is a single machine (either virtual or physical) managing the whole file system, storing metadata for every file (information on size, attributes and file location(s), including all information about non-regular files, i.e. directories, sockets, pipes and devices). MFS CE is defined as the MFS Pro software without features marked as “Premium”.
+
+GENERAL SCOPE OF LICENSE
+
+CT grants You a non-transferable, non-exclusive, non-sublicensable, royalty-free, worldwide, revocable at CT’s discretion, license to use the Software and manual, for your purposes only, without the right to modifications (with an exception to creation and application of patches as described below) or derivative work creation and without the right to paid distribution to any third parties. This license is an express agreement to be bound by these conditions to all extents permitted under any State or Federal law.
+
+DETAILED CONDITIONS
+
+You may download, install and use the Software (“Installation”) for free only without using the features marked as “Premium”. In case You want to use “Premium” features, please contact CT in order to get a proper Premium license. You will not, nor will You permit anyone else to distribute the Software and/or the manual for a fee. You may run and use the unmodified Software for your purpose exclusively. The only case when You shall not require consent of CT in order to modify the Software is if You create and apply the patches for your own use and only if they are necessary for the proper or undisturbed use of the Software in accordance with its pur¬pose (where the patch is hereby understood as a slight upgrade or a correction of existing error and does not constitute a significant change in the Software). You may convey the unmodified Software. You will not permit anyone else to modify or cause to be modified the Software and/or the manual; except and SOLELY to the extent that an applicable Statute expressly and specifically prohibits CT from restricting such modifications by You. You may not in any case, or for any reason, combine or distribute the Software with open source software or with software developed using open source software in a manner that subjects the Software to any license obligations of such open source software. You will maintain and not remove any proprietary notices on the Software or/and manualYou may copy the Software for archival purposes, provided any copy must contain all of the original Software's proprietary notices.
+
+LIMITED WARRANTY
+
+The Software is provided on an “AS IS” basis. You assume all responsibility for choosing, installing and using the Software. To the maximum extent permitted by applicable law, CT disclaims all other warranties, not explicitly granted, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. Some states or countries do not allow the warranty exclusion or limitations. In such instances and as long as You obtained the Software directly from CT, CT may remedy substantial defects of the Software at its reasonable discretion. If You alter or modify the Software in any way without being authorized by CT, CT will not remedy any defects. You are responsible for obtaining and maintaining any equipment or services needed to use the Software, including, without limitation, internet connection or hardware.
+
+LIMITATION OF LIABILITY
+
+CT will not be liable for any indirect, incidental, special or consequential damages, loss of use, profits, revenue, data, or business interruption, however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the user of this Software, even if advised of the possibility of such damage. CT does not warrant that the Software or any equipment, system or network on which the Software is used will be free of vulnerability to intrusion or attack. CT assumes no responsibility for the compatibility and function of any servers, internet connection and other equipment not provided by CT when using the Software.
+
+You hereby agree to defend, indemnify and hold harmless CT, from and against any and all losses, damages, liabilities, costs, expenses (including costs and reasonable fees of attorneys and other professionals), judgments or settlement amounts arising out of or in connection with a claim regarding any use You make of the Software, in particular regarding redistribution of the Software’s source code, permitted under this agreement. Furthermore, CT will not be liable for any infringement claim which results from: unauthorized modifications to the Software; or, use of other than the versions of Software most recently available for download, if such infringement would have been avoided by use of such a newer version.
+
+Some states or countries do not allow the exclusion or limitation of liability for consequential or incidental damages. In such instances, and as long as You obtained the Software from CT, this limitation and exclusion may only apply to the full permitted extent of the law.
+
+GOVERNING LAW
+
+The Software is protected by the United States intellectual property laws, in particular the Copyright law of United States including but not limited to 17 USC section 101, et seq. and the Digital Millennium Copyright Act. This Agreement shall be governed by and construed in accordance with the laws of the United States of America and the law of the State of New York, without regard to conflict of law provisions, and the parties submit to the exclusive jurisdiction of the state and federal courts located in the Southern District of New York.
+
+COPY RESTRICTIONS
+
+The Software and the accompanying manual, as well as derivative works thereof under 17 USC 103(a) if any, are copyrighted by CT and protected under US Copyright law, specifically including 17 USC section 101, et seq. and the Digital Millennium Copyright Act. Unauthorized copying of the Software, including modifications of the Software or programs in which the Software has been merged or included with other Software products is expressly forbidden. You may be held legally responsible for any copyright infringement that is caused or encouraged by your failure to comply with the terms of this License.
+
+TITLE
+
+Title, ownership rights and intellectual property rights in the Software shall remain with CT. The Software is protected by copyright and other intellectual property laws and by international treaties. Title and related rights in the content accessed through the Software is the property of the applicable content owner and is protected by applicable law. The License granted under this Agreement gives You no rights to such content.
+
+TERMINATION
+
+This Agreement and the License granted hereunder will terminate automatically if Licensee fails to comply with the limitations described herein. Upon termination, Licensee must destroy all copies of the Software. In the event of termination by reason of your failure to comply with any part of this agreement, or upon any act which shall give rise to CT's right to terminate, CT shall have the right, at any time, to terminate the license(s) and take immediate possession or confirm destruction of the Software and documentation and all copies wherever located, without demand or notice. Within five (5) days after termination of the license(s), Licensee will return to CT the Software in the form provided by CT or as modified by You, or upon request by CT destroy the Software and all copies, and certify in writing that they have been destroyed. Termination under this paragraph shall not relieve Licensee of its obligations regarding confidentiality of the Software. Termination of the license(s) shall be in addition to and not in lieu of any equitable remedies available to CT. Nothing herein is intended to limit CT’s ability to terminate this license at any time at its sole discretion without cause.
+
+CONFIDENTIALITY AND LICENSEE OBLIGATIONS
+
+Licensee agrees to secure and protect the Software, documentation and copies thereof in a manner consistent with the maintenance of CT's rights therein and to take appropriate action by instruction or agreement with its employees or consultants who are permitted access to the Software to satisfy its obligations hereunder.
+
+NO TRADEMARK LICENSE
+
+The Software and manual are being licensed to You, as END-USER by this Agreement. Notwithstanding anything to the contrary in this Agreement, You as END-USER are not licensed to use the Software trade names or any other intellectual property rights held by Core Technology or subsidiary, including the Core Technology name and logo, except as expressly provided in this agreement.
+
+INJUNCTION
+
+In the event CT reasonably believes that the use or distribution of any Software or CT Trademarks is likely to be enjoined, CT may, among other things, take back such infringing item or items and terminate the license associated with respect to such item or items. CT may also seek judicial intervention including, without limitation, an injunction in the State Courts of New Jersey, to which injunctive relief You or END-USER expressly consents hereby and agrees not to oppose.
+
+EXPORT LAW ASSURANCES
+
+Licensee agrees and certifies that neither the Software nor other technical data received from CT, nor the direct product thereof, will be exported out of the United States except as authorized and permitted by the laws and regulations of the United States. If the Software has been rightfully obtained by Licensee outside of the United States, Licensee agrees that Licensee will not re-export the Software nor any other technical data received from CT nor the direct product thereof, except as permitted by the laws and regulations of the United States and the laws and regulations of the jurisdiction in which Licensee obtained the Software.
+
+HIGH RISK ACTIVITIES
+
+The Software is not fault-tolerant and is not designed, manufactured or intended for use or resale as on-line control equipment in hazardous environments requiring fail-safe performance, such as in the operation of nuclear facilities, aircraft navigation or communication systems, air traffic control, direct life support machines or weapon systems in which the failure of the Software could lead directly to death, personal injury or severe physical or environmental damage ("High Risk Activities"). Accordingly, CT and its suppliers specifically disclaim any express or implied warranties of fitness for High Risk Activities.
+
+NOTICES
+
+If You have any questions about this agreement, or if You wish to contact CT for any reason, please write to CT at the following address:
+
+Core Technology Sp. z o.o.
+57 West 57th Street, 
+New York City,
+New York, 100197
+
+MISCELLANEOUS
+
+This Agreement represents the complete agreement concerning the License granted hereunder and may be amended only by a writing executed by both parties. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this agreement shall otherwise remain in full force and effect as intended by the parties and evidenced by its express terms.
+
+You grant CT the right to include your name, logo, trademark in a list of clients on CT website and in any other promotional material in relation to the Software.
